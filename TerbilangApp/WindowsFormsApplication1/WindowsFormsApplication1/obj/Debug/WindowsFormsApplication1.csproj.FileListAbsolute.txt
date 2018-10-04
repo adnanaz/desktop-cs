@@ -1,0 +1,11 @@
+E:\CS\TerbilangApp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\CS\TerbilangApp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\CS\TerbilangApp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\CS\TerbilangApp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TerbilangClass.dll
+E:\CS\TerbilangApp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TerbilangClass.pdb
+E:\CS\TerbilangApp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\CS\TerbilangApp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\CS\TerbilangApp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\CS\TerbilangApp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\CS\TerbilangApp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\CS\TerbilangApp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

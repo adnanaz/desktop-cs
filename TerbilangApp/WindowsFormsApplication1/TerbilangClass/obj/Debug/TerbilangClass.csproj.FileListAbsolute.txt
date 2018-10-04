@@ -1,0 +1,5 @@
+E:\CS\TerbilangApp\WindowsFormsApplication1\TerbilangClass\bin\Debug\TerbilangClass.dll
+E:\CS\TerbilangApp\WindowsFormsApplication1\TerbilangClass\bin\Debug\TerbilangClass.pdb
+E:\CS\TerbilangApp\WindowsFormsApplication1\TerbilangClass\obj\Debug\TerbilangClass.csprojResolveAssemblyReference.cache
+E:\CS\TerbilangApp\WindowsFormsApplication1\TerbilangClass\obj\Debug\TerbilangClass.dll
+E:\CS\TerbilangApp\WindowsFormsApplication1\TerbilangClass\obj\Debug\TerbilangClass.pdb
