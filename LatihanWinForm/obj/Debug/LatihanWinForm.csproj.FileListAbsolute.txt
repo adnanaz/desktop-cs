@@ -1,0 +1,29 @@
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojResolveAssemblyReference.cache
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form1.resources
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.Cache
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+D:\17.11.0992\Pertemuan 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojAssemblyReference.cache
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.cache
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.CoreCompileInputs.cache
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+D:\File\Informatika\Semester 3\Pemrograman Lanjut\Praktikum 3\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+C:\Users\HP\Desktop\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+C:\Users\HP\Desktop\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+C:\Users\HP\Desktop\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+C:\Users\HP\Desktop\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+C:\Users\HP\Desktop\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+C:\Users\HP\Desktop\LatihanWinForm\obj\Debug\LatihanWinForm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
+C:\Users\HP\Desktop\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+C:\Users\HP\Desktop\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.Cache
