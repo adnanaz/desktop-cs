@@ -1,0 +1,32 @@
+public class MahasiswaRESTServiceRepository
+{
+    public Mahasiswa GetByNpm(string npm)
+    {
+        throw new NotImplementedException();
+    }
+
+    public List<Mahasiswa> GetByNama(string nama)
+    {
+        throw new NotImplementedException();
+    }
+
+    public List<Mahasiswa> GetAll()
+    {
+        throw new NotImplementedException();
+    }
+
+    public int Save(Mahasiswa obj)
+    {
+        throw new NotImplementedException();
+    }
+
+    public int Update(Mahasiswa obj)
+    {
+        throw new NotImplementedException();
+    }
+
+    public int Delete(Mahasiswa obj)
+    {
+        throw new NotImplementedException();
+    }
+}

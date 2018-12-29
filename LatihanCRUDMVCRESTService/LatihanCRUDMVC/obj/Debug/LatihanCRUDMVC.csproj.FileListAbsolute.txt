@@ -1,0 +1,47 @@
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\praktikum-08\LatihanCRUDMVC\bin\Debug\LatihanCRUDMVC.exe.config
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\praktikum-08\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.Properties.Resources.resources
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\praktikum-08\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.csproj.GenerateResource.Cache
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\praktikum-08\LatihanCRUDMVC\bin\Debug\LatihanCRUDMVC.exe
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\praktikum-08\LatihanCRUDMVC\bin\Debug\LatihanCRUDMVC.pdb
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\praktikum-08\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.exe
+E:\Lab\Source Code Ngajar\01 Pemrograman Lanjut 2018-2019\source-code\praktikum-08\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.pdb
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 10\LatihanCRUDMVC - Lengkap\bin\Debug\LatihanCRUDMVC.exe.config
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 10\LatihanCRUDMVC - Lengkap\obj\Debug\LatihanCRUDMVC.exe
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 10\LatihanCRUDMVC - Lengkap\obj\Debug\LatihanCRUDMVC.pdb
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 10\LatihanCRUDMVC - Lengkap\bin\Debug\LatihanCRUDMVC.exe
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 10\LatihanCRUDMVC - Lengkap\bin\Debug\LatihanCRUDMVC.pdb
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 10\LatihanCRUDMVC - Lengkap\obj\Debug\LatihanCRUDMVC.csprojResolveAssemblyReference.cache
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 10\LatihanCRUDMVC - Lengkap\obj\Debug\LatihanCRUDMVC.Properties.Resources.resources
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 10\LatihanCRUDMVC - Lengkap\obj\Debug\LatihanCRUDMVC.View.FrmMahasiswa.resources
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 10\LatihanCRUDMVC - Lengkap\obj\Debug\LatihanCRUDMVC.csproj.GenerateResource.Cache
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 10\LatihanCRUDMVC - Lengkap\bin\Debug\RestSharp.dll
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 10\LatihanCRUDMVC - Lengkap\bin\Debug\RestSharp.xml
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 11\LatihanCRUDMVC - Lengkap\bin\Debug\LatihanCRUDMVC.exe.config
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 11\LatihanCRUDMVC - Lengkap\obj\Debug\LatihanCRUDMVC.exe
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 11\LatihanCRUDMVC - Lengkap\obj\Debug\LatihanCRUDMVC.pdb
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 11\LatihanCRUDMVC - Lengkap\bin\Debug\LatihanCRUDMVC.exe
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 11\LatihanCRUDMVC - Lengkap\bin\Debug\LatihanCRUDMVC.pdb
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 11\LatihanCRUDMVC - Lengkap\bin\Debug\RestSharp.dll
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 11\LatihanCRUDMVC - Lengkap\bin\Debug\RestSharp.xml
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 11\LatihanCRUDMVC - Lengkap\obj\Debug\LatihanCRUDMVC.csprojResolveAssemblyReference.cache
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 11\LatihanCRUDMVC - Lengkap\obj\Debug\LatihanCRUDMVC.Properties.Resources.resources
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 11\LatihanCRUDMVC - Lengkap\obj\Debug\LatihanCRUDMVC.View.FrmMahasiswa.resources
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 11\LatihanCRUDMVC - Lengkap\obj\Debug\LatihanCRUDMVC.csproj.GenerateResource.Cache
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 12\LatihanCRUDMVC\bin\Debug\LatihanCRUDMVC.exe.config
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 12\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.exe
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 12\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.pdb
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 12\LatihanCRUDMVC\bin\Debug\LatihanCRUDMVC.exe
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 12\LatihanCRUDMVC\bin\Debug\LatihanCRUDMVC.pdb
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 12\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.csprojResolveAssemblyReference.cache
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 12\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.Properties.Resources.resources
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 12\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.View.FrmMahasiswa.resources
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\Ganjil\Pemrograman Lanjut\02 Praktik\Pertemuan 12\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.csproj.GenerateResource.Cache
+D:\17.11.0964\LatihanCRUDMVCRESTService\LatihanCRUDMVC\bin\Debug\LatihanCRUDMVC.exe.config
+D:\17.11.0964\LatihanCRUDMVCRESTService\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.exe
+D:\17.11.0964\LatihanCRUDMVCRESTService\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.pdb
+D:\17.11.0964\LatihanCRUDMVCRESTService\LatihanCRUDMVC\bin\Debug\LatihanCRUDMVC.exe
+D:\17.11.0964\LatihanCRUDMVCRESTService\LatihanCRUDMVC\bin\Debug\LatihanCRUDMVC.pdb
+D:\17.11.0964\LatihanCRUDMVCRESTService\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.csprojResolveAssemblyReference.cache
+D:\17.11.0964\LatihanCRUDMVCRESTService\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.Properties.Resources.resources
+D:\17.11.0964\LatihanCRUDMVCRESTService\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.View.FrmMahasiswa.resources
+D:\17.11.0964\LatihanCRUDMVCRESTService\LatihanCRUDMVC\obj\Debug\LatihanCRUDMVC.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+1. Menggunakan HTTP Method GET
+
+* http://www.buatdevelop.com/perpustakaan/api/mahasiswa/get_all
+* http://www.buatdevelop.com/perpustakaan/api/mahasiswa/get_by_name?name=???
+* http://www.buatdevelop.com/perpustakaan/api/mahasiswa/get_by_npm?npm=???
+
+2. Menggunakan HTTP Method POST
+
+* http://www.buatdevelop.com/perpustakaan/api/mahasiswa/save
+* http://www.buatdevelop.com/perpustakaan/api/mahasiswa/update
+* http://www.buatdevelop.com/perpustakaan/api/mahasiswa/delete
